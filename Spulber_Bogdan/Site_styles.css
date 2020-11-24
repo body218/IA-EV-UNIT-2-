@@ -1,0 +1,120 @@
+		body {background-color: #FFFFFF;}
+		h1.nume {
+				margin-left:50px;
+				margin-right:50px;
+				font-size: 30px;
+				font-style: italic;
+				font-family: "Arial";
+				text-decoration: underline;
+				text-align: center;
+				background:  #262626;
+				outline-style: solid;
+				outline-color:  #000000;
+				outline-width: thick;
+				color: #ccb2ff;}
+		      p {
+				margin-right:50px;
+				font-size: 20px;
+				font-family: "Arial";
+				color:#ffcf0d;
+				text-align: right;
+				text-decoration: underline;}
+				a {color:#ffcf0d;}
+			
+				
+		h2.sectiuni{
+					
+					margin-left:25px;
+					font-family: "Arial";
+					text-decoration: underline;
+					color:#9900cc;
+					
+					
+		}
+		
+		div.aliniere{
+			margin-left:25px;
+			
+		}
+		
+		img.diagrama {
+					border: 2px #00ff00;
+					border-radius: 12px;
+                    width: 500px;
+					display: block;
+					padding: 10px;
+					margin: left;
+					margin-left: auto;
+					margin-right: auto;
+					opacity: 1.00;}
+					
+		ul			{	
+					list-style-position: inside;
+					font-family: "Arial";
+					text-align: right;
+		}
+		div.chapter		{
+					
+					margin-left:35px;
+					margin-right:35px;
+					background:   #b8b8ff;
+					outline-style: solid;
+					outline-color:  #9900cc;
+					outline-width: medium;
+					
+				}
+				
+				
+		img.slide 	{
+				
+				
+					
+					padding:2px 10px 10px 5px;
+					border-radius: 20px;
+					outline-style: solid;
+					outline-color: #336699; 
+					outline-width: thick;
+					background: #336699;
+					height: 300px;
+					width: 400px;
+					margin:right;
+					
+					
+		}
+		
+		div.show 	{
+		
+					
+					text-align:center;
+					margin-left:50px;
+					margin-right:50px;
+					padding: 25px;
+					outline-style: solid;
+					outline-color: #336699; 
+					outline-width: thick;
+					background: #336699;
+		}
+		
+	
+	
+	table 		  { background-color: #A6A6A6;}
+	table,tr,td,th{ border: 3px solid #ff6600;
+					border-collapse: collapse;}
+	th.col{
+					font-style: italic;
+					text-decoration: underline;
+					color:yellow;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
